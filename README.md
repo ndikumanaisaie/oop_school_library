@@ -82,7 +82,7 @@ Example command: to fix linters locally
 
 ### Usage
 
-To run the project, execute the following command:
+To run the project use irb
 
 ### Run tests
 
