@@ -31,16 +31,16 @@
 
 <details>
   <ul>
-    <li><a href="https://reactjs.org/">ruby</a></li>
-    <li><a href="https://reactjs.org/">gitflow</a></li>
+    <li><a href="https://www.tutorialspoint.com/ruby/index.htm">ruby</a></li>
+    <li><a href="https://github.com">gitflow</a></li>
   </ul>
 </details>
 
 ### Key Features <a name="key-features"></a>
 
-- **[ruby oop abstraction]**
-- **[ruby oop inheritance]**
-- **[ruby oop encapsulation]**
+- **ruby oop abstraction**
+- **ruby oop inheritance**
+- **ruby oop encapsulation**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -111,10 +111,10 @@ Not deployed
 
 > Features that I will add to the project.
 
-- [ ] **[ruby composition]**
-- [ ] **[Association between classes and objects]**
-- [ ] **[inputs and display messages using command line]**
-- [ ] **[testing ruby application]**
+- [ ] **ruby composition**
+- [ ] **Association between classes and objects**
+- [ ] **inputs and display messages using command line**
+- [ ] **testing ruby application**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
