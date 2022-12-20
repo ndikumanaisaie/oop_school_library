@@ -1,31 +1,24 @@
 class Person
-  def initialize(name = 'unknown', age, parent_permission = true)
-    @id
-    @name = name
+  attr_accessor :name, :age
+  attr_reader :id
+  def initialize(age, name = 'Unknown', parent_permission = true)
+    @id = Random.rand(1..1000)
     @age = age
+    @name = name
     @parent_permission = parent_permission
   end
 
-  def id
-    @id
+  def is_of_age?
+    @age >= 18
   end
 
-  def name
-    @name
+  def can_use_services?
+    is_of_age? || @parent_permission
   end
 
-  def age
-    @age
-  end
-
-  def name = (name)
-    @name = name
-  end
-
-  def age = (age)
-    @age = age
+  private :is_of_age?
 end
 
-person1 = Person.new("ndikumana", 34)
+person1 = Person.new(34, "ndikumana")
+
 puts person1.name();
-puts person1.age();
