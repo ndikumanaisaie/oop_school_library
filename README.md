@@ -77,9 +77,8 @@ Install this project with:
 
 Example command: to fix linters locally
 
-`> gem install rubocop
- > bundle exec rubocop -A
-`
+`gem install rubocop`
+`bundle exec rubocop -A`
 
 ### Usage
 
@@ -142,11 +141,11 @@ I would like to thank ruby team, Microverse, my coding partners and my wife.
 
 > Two question developers would ask when they decide to use this project.
 
-- **[Where can I learn OOB ruby]**
+- **Where can I learn OOB ruby**
 
   - [tutorial point](https://www.tutorialspoint.com/ruby/index.htm).
 
-- **[How to install ruby]**
+- **How to install ruby**
 
   - [ruby installer](https://rubyinstaller.org/).
 
