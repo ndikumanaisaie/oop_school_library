@@ -1,13 +1,103 @@
-# oop_school_library
+<a name="readme-top"></a>
+# 📗 Table of Contents
 
-## Project Description
-Welcome to the oop_school_library. It is a tool that lets librarian of OOP University to record what books are in the library and who borrows them. 
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ](#faq)
+- [📝 License](#license)
 
-## Built with
-- ruby
-- gitflow
+# 📖 [OOP SCHOOL LIBRARY] <a name="about-project"></a>
 
-## Author
+**[OOP SCHOOL LIBRARY]** is a tool that lets librarian of OOP University to record what books are in the library and who borrows them.
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <ul>
+    <li><a href="https://reactjs.org/">ruby</a></li>
+    <li><a href="https://reactjs.org/">gitflow</a></li>
+  </ul>
+</details>
+
+### Key Features <a name="key-features"></a>
+
+- **[ruby oop abstraction]**
+- **[ruby oop inheritance]**
+- **[ruby oop encapsulation]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> No live demo of the project
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+> How new developer can use this project.
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+
+- Install vscode locally.
+- Install ruby.
+
+### Setup
+
+To get a local copy up and running follow these simple example steps.
+
+- clone: run `git clone https://github.com/ndikumanaisaie/oop_school_library.git` .
+- To move to cloned folder: run `cd oop_school_library`.
+
+### Install
+
+Install this project with:
+
+
+Example command: to fix linters locally
+
+```> gem install rubocop
+   > bundle exec rubocop -A
+```
+
+### Usage
+
+To run the project, execute the following command:
+
+### Run tests
+
+No tests
+
+### Deployment
+
+Not deployed
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 👥 Authors <a name="authors"></a>
+
+> Collaborators of this project.
 
 👤 **Ndikumana Isaie**
 
@@ -15,39 +105,58 @@ Welcome to the oop_school_library. It is a tool that lets librarian of OOP Unive
 - Twitter: [Ndikuma38670724](https://twitter.com/Ndikuma38670724)
 - LinkedIn: [Ndikumana Isaie](https://www.linkedin.com/in/ndikumanaisaie/)
 
-## Link to URL on gitHub
-- [oop_school_library](https://github.com/ndikumanaisaie/oop_school_library.git)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Getting Started
+## 🔭 Future Features <a name="future-features"></a>
 
-To get a local copy up and running follow these simple example steps.
+> Features that I will add to the project.
 
-## Setup
-- clone: run `git clone https://github.com/ndikumanaisaie/oop_school_library.git` .
-- To move to cloned folder: run `cd oop_school_library`.
+- [ ] **[ruby composition]**
+- [ ] **[Association between classes and objects]**
+- [ ] **[inputs and display messages using command line]**
+- [ ] **[testing ruby application]**
 
-## Install
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-No installation required
-
-## Testing
-
-No testing
-
-## 🤝 Contributing
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-## Show your support
+Feel free to check the [issues page](../../issues/).
 
-Give a ⭐️ if you like this project!
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Acknowledgments
+## ⭐️ Show your support <a name="support"></a>
 
-- Hat tip to react team
-- Microverse staff
-- My family
+> Write a message to encourage readers to support your project
 
-## 📝 License
+If you like this project follow my github to get more interesting project and give it a star.
 
-This project is [MIT](./MIT.md) licensed.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> Credit
+I would like to thank ruby team, Microverse, my coding partners and my wife.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## ❓ FAQ <a name="faq"></a>
+
+> Add at least 2 questions new developers would ask when they decide to use your project.
+
+- **[Where can I learn OOB ruby]**
+
+  - [tutorial point](https://www.tutorialspoint.com/ruby/index.htm).
+
+- **[How to install ruby]**
+
+  - [ruby installer](https://rubyinstaller.org/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
