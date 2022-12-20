@@ -19,7 +19,3 @@ class Person
 
   private :of_age?
 end
-
-person1 = Person.new(34, 'ndikumana')
-
-puts person1.name
