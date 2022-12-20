@@ -77,9 +77,9 @@ Install this project with:
 
 Example command: to fix linters locally
 
-```> gem install rubocop
-   > bundle exec rubocop -A
-```
+`> gem install rubocop
+ > bundle exec rubocop -A
+`
 
 ### Usage
 
@@ -128,22 +128,19 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project follow my github to get more interesting project and give it a star.
+If you like this project follow me ona github to get more interesting project and give it a star.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Credit
 I would like to thank ruby team, Microverse, my coding partners and my wife.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## ❓ FAQ <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
+> Two question developers would ask when they decide to use this project.
 
 - **[Where can I learn OOB ruby]**
 
