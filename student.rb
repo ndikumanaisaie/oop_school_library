@@ -7,6 +7,6 @@ class Student < Person
   end
 
   def play_hooks
-    "¯\(ツ)/¯"
+    '¯(ツ)/¯'
   end
 end
