@@ -21,9 +21,9 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-# 📖 [OOP SCHOOL LIBRARY] <a name="about-project"></a>
+# 📖 OOP SCHOOL LIBRARY <a name="about-project"></a>
 
-**[OOP SCHOOL LIBRARY]** is a tool that lets librarian of OOP University to record what books are in the library and who borrows them.
+**OOP SCHOOL LIBRARY** is a tool that lets librarian of OOP University to record what books are in the library and who borrows them.
 
 ## 🛠 Built With <a name="built-with"></a>
 
