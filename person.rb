@@ -1,4 +1,6 @@
-class Person
+require_relative 'person'
+
+class Person < Nameable
   attr_accessor :name, :age
   attr_reader :id
 
