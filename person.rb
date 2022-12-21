@@ -35,6 +35,6 @@ person.correct_name
 decorator = Decorator.new(person)
 puts decorator.correct_name
 capitalized_person = CapitalizeDecorator.new(person)
-capitalized_person.correct_name
+puts capitalized_person.correct_name
 capitalized_trimmed_person = TrimmerDecorator.new(capitalized_person)
 puts capitalized_trimmed_person.correct_name
