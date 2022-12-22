@@ -26,18 +26,18 @@ def main
 
     case choose
     when '1'
-      app.books_list
+      app.list_all_books
       puts 'first choice'
     when '2'
-      app.person_list
+      app.list_all_people
     when '3'
-      app.create_person
+      app.create_a_person
     when '4'
-      app.book_data
+      app.create_a_book
     when '5'
-      app.create_rental
+      app.create_a_rental
     when '6'
-      app.rentals_list
+      app.list_rentals_by_person_id
     when '7'
       puts 'Thank you for using this app!'
       exit
