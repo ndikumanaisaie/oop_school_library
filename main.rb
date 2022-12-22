@@ -1,5 +1,5 @@
 require_relative 'app'
-
+# rubocop:disable Metrics
 def main
   app = App.new
   choose = nil
@@ -44,5 +44,5 @@ def main
     end
   end
 end
-
+# rubocop:enable Metrics
 main
