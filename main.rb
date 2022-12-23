@@ -27,7 +27,7 @@ def main
     case choose
     when '1'
       app.list_all_books
-      puts 'first choice'
+      puts 'first choose'
     when '2'
       app.list_all_people
     when '3'
@@ -39,10 +39,11 @@ def main
     when '6'
       app.list_rentals_by_person_id
     when '7'
-      puts 'Thank you for using this app!'
+      puts 'Thank you for using the app!'
       exit
     end
   end
 end
+
 # rubocop:enable Metrics
 main
