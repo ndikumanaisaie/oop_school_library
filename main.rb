@@ -22,7 +22,9 @@ def main
     puts options
 
     choose = gets.chomp
+    puts
     puts "Selected: #{choose}"
+    puts
 
     case choose
     when '1'

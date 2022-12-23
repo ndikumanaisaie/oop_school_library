@@ -111,7 +111,7 @@ class App
   end
 
   def list_rentals_by_person_id
-    puts 'ID of person: '
+    print 'ID of person: '
     id = gets.chomp.to_i
 
     puts 'Rentals:'
