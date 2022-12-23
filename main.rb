@@ -27,7 +27,6 @@ def main
     case choose
     when '1'
       app.list_all_books
-      puts 'first choose'
     when '2'
       app.list_all_people
     when '3'
@@ -47,3 +46,4 @@ end
 
 # rubocop:enable Metrics
 main
+

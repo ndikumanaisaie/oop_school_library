@@ -40,13 +40,13 @@ class App
   end
 
   def create_a_student
-    puts 'Age: '
+    print 'Age: '
     age = gets.chomp.to_i
 
-    puts 'Name: '
+    print 'Name: '
     name = gets.chomp
 
-    puts 'Has parent permission? [Y/N]: '
+    print 'Has parent permission? [Y/N]: '
     parent_permission = gets.chomp.downcase
 
     student = Student.new(@class, age, name, parent_permission)
@@ -57,13 +57,13 @@ class App
   end
 
   def create_a_teacher
-    puts 'Age: '
+    print 'Age: '
     age = gets.chomp.to_i
 
-    puts 'Name: '
+    print 'Name: '
     name = gets.chomp
 
-    puts 'Specialization: '
+    print 'Specialization: '
     specialization = gets.chomp
 
     teacher = Teacher.new(specialization, age, name)
@@ -74,10 +74,10 @@ class App
   end
 
   def create_a_book
-    puts 'Title: '
+    print 'Title: '
     title = gets.chomp
 
-    puts 'Author: '
+    print 'Author: '
     author = gets.chomp
 
     book = Book.new(title, author)
@@ -100,7 +100,7 @@ class App
 
     person_id = gets.chomp.to_i
 
-    puts 'Date: '
+    print 'Date: '
     date = gets.chomp.to_s
 
     rental = Rental.new(date, @people[person_id], @books[book_id])
