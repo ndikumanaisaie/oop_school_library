@@ -46,4 +46,3 @@ end
 
 # rubocop:enable Metrics
 main
-
