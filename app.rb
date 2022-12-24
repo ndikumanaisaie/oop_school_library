@@ -52,7 +52,7 @@ class App
     student = Student.new(@class, age, name, parent_permission)
     @people << student
 
-    puts 'Student created successfully'
+    puts 'Student created successfully!'
     sleep 0.75
   end
 
@@ -69,7 +69,7 @@ class App
     teacher = Teacher.new(specialization, age, name)
     @people << teacher
 
-    puts 'Teacher created successfully'
+    puts 'Teacher created successfully!'
     sleep 0.75
   end
 
