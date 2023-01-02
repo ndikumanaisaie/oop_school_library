@@ -1,5 +1,5 @@
 require_relative 'app'
-
+# rubocop:disable Metrics
 def main
   app = App.new
 
@@ -12,7 +12,7 @@ end
 def display_menu
   puts 'Welcome to School Library App!'
   puts
-  
+
   puts 'Please choose an option by entering a number: '
 
   options = [
@@ -28,7 +28,7 @@ def display_menu
   puts options
 end
 
-def select_option app
+def select_option(app)
   choice = gets.chomp
   puts
   puts "You selected: #{choice}"
@@ -52,5 +52,5 @@ def select_option app
     exit
   end
 end
-
+# rubocop:enable Metrics
 main
