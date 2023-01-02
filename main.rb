@@ -10,6 +10,7 @@ def main
 end
 
 def display_menu
+  puts
   puts 'Welcome to School Library App!'
   puts
 
