@@ -18,3 +18,9 @@ def display_menu
 
   puts options
 end
+
+def select_option
+end
+
+def main
+end
