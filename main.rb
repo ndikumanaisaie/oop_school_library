@@ -52,3 +52,5 @@ def select_option app
     exit
   end
 end
+
+main
