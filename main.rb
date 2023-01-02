@@ -1,5 +1,14 @@
 require_relative 'app'
 
+def main
+  app = App.new
+
+  loop do
+    display_menu
+    select_option(app)
+  end
+end
+
 def display_menu
   puts 'Welcome to School Library App!'
   puts
@@ -20,7 +29,4 @@ def display_menu
 end
 
 def select_option
-end
-
-def main
 end
